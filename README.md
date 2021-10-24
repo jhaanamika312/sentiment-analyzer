@@ -29,3 +29,5 @@ Note:- I am facing an error that after running app.py the sentiment model run on
 
 Note: When i am creating an network in docker compose file it gives me error "service.networks must be mapping" but without specifying an network in the compose file the docker conatiner runs well
 
+## Output
+Output of the code in mp4 format is included in the folder 'output'

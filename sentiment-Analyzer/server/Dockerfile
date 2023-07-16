@@ -1,11 +1,11 @@
 # init a base image
-FROM python:3.8
+FROM python:3.10
 
 #define present working directory
-WORKDIR /server
+WORKDIR /app
 
 #Copy contents into working dir
-ADD . /server
+ADD . /app
 
 #Install dependencies 
 RUN pip install -r requirements.txt

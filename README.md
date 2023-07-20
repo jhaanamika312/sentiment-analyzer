@@ -29,7 +29,7 @@ The dockercompose.yml file is to build docker image and run the container
    docker build -t sentiment-analyzer .
    docker run -p 5000:5000 sentiment-analyzer
 
-4.Access the app in your browser at http://localhost:5000/
+4. Access the app in your browser at http://localhost:5000/
 
 ##Dependencies
 Python 3.10

@@ -25,13 +25,13 @@ The dockercompose.yml file is to build docker image and run the container
 
 2. pip install -r requirements.txt
 
-3. ## Using Docker
+3. ### Using Docker
    docker build -t sentiment-analyzer .
    docker run -p 5000:5000 sentiment-analyzer
 
 4. Access the app in your browser at http://localhost:5000/
 
-### Dependencies
+## Dependencies
 Python 3.10
 Flask
 scikit-learn

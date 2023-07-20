@@ -23,7 +23,7 @@ The dockercompose.yml file is to build docker image and run the container
    git clone <repository_url>
    cd sentiment-analyzer
 
-2.pip install -r requirements.txt
+2. pip install -r requirements.txt
 
 3. ##Using Docker
    docker build -t sentiment-analyzer .

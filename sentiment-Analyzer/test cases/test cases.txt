@@ -1,0 +1,42 @@
+Test cases
+
+1. Prompt- I like eating yougurt
+
+	Output : 68% positive
+
+	SENTIMENT METRIC		SCORE
+	Positive			0.556
+	Neutral			0.444
+	Negative			0.0
+	Compound			0.68
+
+2. Prompt- 'i extremely love swimming'
+	
+	Output- 83% positive
+	
+	SENTIMENT METRIC		SCORE
+	Positive			0.692
+	Neutral			0.308
+	Negative			0.0
+	Compound			0.83
+
+3. Prompt-I hate going to yoga classes
+
+	Output - 21% positive
+
+	SENTIMENT METRIC	SCORE
+	Positive		0.0
+	Neutral		0.448
+	Negative		0.552
+	Compound		0.21
+
+4. Prompt-this pizza is worst food ever i really really hate it
+ 	 
+	 Ouput- 7.000000000000001% positive 
+		
+	SENTIMENT METRIC	SCORE
+	Positive		0.0
+	Neutral		0.374
+	Negative		0.626
+	Compound		0.07
+

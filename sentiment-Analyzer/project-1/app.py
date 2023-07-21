@@ -40,5 +40,5 @@ def my_form_post():
 
     return render_template('form.html', final=compound, text1=text_final,text2=dd['pos'],text5=dd['neg'],text4=compound,text3=dd['neu'])
 
-if __name__ == "__main__":
-    app.run(debug=True, host="127.0.0.1", port=5002, threaded=True)
+if __name__ == '__main__':
+    app.run(debug=True,host='0.0.0.0')

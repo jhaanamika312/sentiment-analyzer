@@ -38,8 +38,8 @@ scikit-learn
 vaderSentiment
 nltk
 
-
-
-
 ## Output
+<img width="933" alt="Screenshot 2023-07-21 152118" src="https://github.com/jhaanamika312/Final-task/assets/87661799/62ec92e4-16f5-4ec9-a3af-d90844cd03ad">
+
+
 Output of the code in mp4 format is included in the folder 'output'
